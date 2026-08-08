@@ -6,17 +6,17 @@
 
 ### 🔭 Current Projects
 
-#### [Suyi（溯忆）— 自进化 AI Agent 框架](https://github.com/Z4OR-cyber/ai-fullstack-lab/releases/tag/v0.4.0)
+#### [Suyi（溯忆）— 自进化 AI Agent 框架](https://github.com/Z4OR-cyber/ai-fullstack-lab/releases/tag/v0.5.0)
 > 追溯过往，构建记忆，自我进化。
 
 纯 Python 实现的自进化 Agent 框架，零重度依赖（仅 httpx + numpy）。
 
 | 指标 | 数值 |
 |------|------|
-| 版本 | **v0.4.0** |
+| 版本 | **v0.5.0** |
 | Python 文件 | 87 |
-| 代码行数 | 28,248 |
-| 测试数 | **1,050** (100% pass) |
+| 代码行数 | 31,896 |
+| 测试数 | **1,259** (100% pass) |
 | 模块数 | 20 |
 
 **20 大模块：** Memory(三层) · Core(ReAct) · Tools · Skills · Middleware(7层) · Multi-Agent · Evolution · LLM Adapters · Config · CLI · Web API · Persistence · Streaming · MCP · AI Gateway · Observability · Guardrails · HITL · Evaluation · Prompts
