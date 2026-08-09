@@ -9,7 +9,7 @@
 ## 🔥 Featured Project
 
 ### [Suyi (溯忆) — Self-Evolving AI Agent Framework](https://github.com/Z4OR-cyber/ai-fullstack-lab)
-> **v0.7.0** — 32 modules · 126 Python files · 1,661 tests · pure Python + numpy
+> **v0.8.0** — 32 modules · 126 Python files · 1,661 tests · pure Python + numpy
 
 | Category | Modules |
 |----------|---------|
