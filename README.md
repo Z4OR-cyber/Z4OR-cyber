@@ -9,7 +9,7 @@
 ## 🔥 Featured Project
 
 ### [Suyi (溯忆) — Self-Evolving AI Agent Framework](https://github.com/Z4OR-cyber/ai-fullstack-lab)
-> **v1.0.0** — ALA Complete · 40+ modules · 149 Python files · 2,774 tests · pure Python + numpy
+> **v1.1.0** — ALA Complete · 40+ modules · 149 Python files · 2,774 tests · pure Python + numpy
 
 | Category | Modules |
 |----------|---------|
@@ -24,7 +24,7 @@
 | **Evolution** | Learning Engine · Skill Generator · Behavior Evaluator · Feedback Loop |
 | **🧬 ALA (Original)** | Quality Grading · Forgetting Engine · Anti-Pattern Memory · Loop Template · Strategy Evolver · Bilevel Loop · Evolution Report |
 
-### 🧬 ALA — Adaptive Loop Architecture (v1.0.0 Original)
+### 🧬 ALA — Adaptive Loop Architecture (v1.1.0 Original)
 Five original modules making the Agent's Loop itself a living, evolving memory:
 - **Quality Grading** — Source × Result × Confidence × Evidence → weighted quality score
 - **Forgetting Engine** — Ebbinghaus curve + 3-tier strategy (DEGRADE/COMPRESS/PURGE)
